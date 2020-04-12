@@ -15,7 +15,7 @@
 This **collection** contains Raw Data for the Discord Bot Maker (DBM) beta with the DBM Network Mods to create several commands and events.
 
 ## Raw Data Projects
-- [Staff Commands](/Admin%20Commands) - Commands that only users with a  can execute. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
+- [Staff Commands](/Admin%20Commands) - Commands that only users with a specified role can execute. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
 - [Suggestion Command](/Suggestion%20Command) - A Suggestion Command sends a embed message with thump up and down reaction <img src="https://img.shields.io/badge/Status-In Planing-blue.svg" alt="Status">
 
 <br>**LEGEND**<br>
