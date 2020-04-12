@@ -1,9 +1,10 @@
 # DBM-Network-RawData-Collection
 <p align="center">
-  <img src="https://img.shields.io/badge/%20DBM Raw Data Collection%20-8c0808.svg?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/%20DBM Network Raw Data Collection%20-8c0808.svg?style=for-the-badge"><br>
   <a href="https://github.com/NiceKype/nicebot/tree/master#overview">Overview</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Raw Data Projects</a> •
   <a href="https://github.com/NiceKype/nicebot/blob/master/CHANGELOG.md">Changelog</a> •
+  <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Support</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#license">License</a><br>
   <img src="https://img.shields.io/badge/Last%20Update-06.04.2020-272727.svg" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version">
@@ -14,7 +15,7 @@
 This **collection** contains Raw Data for the Discord Bot Maker (DBM) beta with the DBM Network Mods to create several commands and events.
 
 ## Raw Data Projects
-- [Staff Commands](/Admin%20Commands) - Commands that only users with a  can execute. <img src="https://img.shields.io/badge/Status-Ready-43cc11.svg" alt="Status">
+- [Staff Commands](/Admin%20Commands) - Commands that only users with a  can execute. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
 - [Suggestion Command](/Suggestion%20Command) - A Suggestion Command sends a embed message with thump up and down reaction <img src="https://img.shields.io/badge/Status-In Planing-blue.svg" alt="Status">
 
 <br>**LEGEND**<br>
@@ -23,6 +24,17 @@ This **collection** contains Raw Data for the Discord Bot Maker (DBM) beta with 
 <img src="https://img.shields.io/badge/Status-In Planing-blue.svg" alt="Status">
 <img src="https://img.shields.io/badge/Status-Buggy-ab1cb8.svg" alt="Status">
 <img src="https://img.shields.io/badge/Status-Canceled-ff0000.svg" alt="Status">
+
+## Support
+
+You need help with my raw data? Then you can ask for help!
+To get support you can use 2 ways.
+
+Join our discord server and create a ticket to get direct and fast support.
+[Discord Web Link](https://nicekype.dev/discord) • [Direct Link](https://discord.gg/yMhThb7)
+I'm in the [DBM Network Discord](https://discord.gg/3QxkZPK) too. You can ask there in the support channel and ping me.
+
+*I do not answer any PMs for support and not answer a spammer or ping spammer!*
 
 ## License
 
