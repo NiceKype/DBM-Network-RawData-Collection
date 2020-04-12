@@ -4,6 +4,7 @@
   <a href="https://github.com/NiceKype/nicebot/tree/master#overview">Overview</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Raw Data Projects</a> •
   <a href="https://github.com/NiceKype/nicebot/blob/master/CHANGELOG.md">Changelog</a> •
+  <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Installation</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Support</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#license">License</a><br>
   <img src="https://img.shields.io/badge/Last%20Update-12.04.2020-272727.svg" alt="Update">
@@ -24,6 +25,17 @@ This **collection** contains Raw Data for the Discord Bot Maker (DBM) beta with 
 <img src="https://img.shields.io/badge/Status-In Planing-blue.svg" alt="Status">
 <img src="https://img.shields.io/badge/Status-Buggy-ab1cb8.svg" alt="Status">
 <img src="https://img.shields.io/badge/Status-Canceled-ff0000.svg" alt="Status">
+
+## Installation
+
+**NOTE**: Most of my commands and events REQUIRES THE LATEST MODS AND DBM BETA. Informations how to install can you find on the [DBM Network Discord](https://discord.gg/3QxkZPK).
+
+To install, make the following steps:
+- Make a new command or event
+- right click on the command/event and select "Edit Raw Data"
+- Copy my raw data in there and save
+
+DONE!
 
 ## Support
 
