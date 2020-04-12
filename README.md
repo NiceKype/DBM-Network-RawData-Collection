@@ -6,7 +6,7 @@
   <a href="https://github.com/NiceKype/nicebot/blob/master/CHANGELOG.md">Changelog</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Support</a> •
   <a href="https://github.com/NiceKype/nicebot/tree/master#license">License</a><br>
-  <img src="https://img.shields.io/badge/Last%20Update-06.04.2020-272727.svg" alt="Update">
+  <img src="https://img.shields.io/badge/Last%20Update-12.04.2020-272727.svg" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version">
   <img src="https://discordapp.com/api/guilds/599013820513648640/widget.png" alt="Discord" href="https://nicekype.dev/discord">
 </p>
@@ -43,7 +43,7 @@ Copyright (C) 2018-2020 by NiceKype | [NK Development](https://nicekype.dev)
 Don't copy the code or us this in other project discord servers then NK Development for now.
 This producty running under the **NK_FreeUse_License**:
 
-<a style="color:green;">You are allowed to:</a>
+<span style="color:green;">You are allowed to:</span>
 - use this raw data in your bot (Non-Commercial and commercial)
 - modify this raw data
 
