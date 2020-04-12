@@ -1,12 +1,12 @@
 # DBM-Network-RawData-Collection
 <p align="center">
   <img src="https://img.shields.io/badge/%20DBM Network Raw Data Collection%20-8c0808.svg?style=for-the-badge"><br>
-  <a href="https://github.com/NiceKype/nicebot/tree/master#overview">Overview</a> •
-  <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Raw Data Projects</a> •
-  <a href="https://github.com/NiceKype/nicebot/blob/master/CHANGELOG.md">Changelog</a> •
-  <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Installation</a> •
-  <a href="https://github.com/NiceKype/nicebot/tree/master#raw-data-projects">Support</a> •
-  <a href="https://github.com/NiceKype/nicebot/tree/master#license">License</a><br>
+  <a href="https://github.com/NiceKype/DBM-Network-RawData-Collection#overview">Overview</a> •
+  <a href="https://github.com/NiceKype/DBM-Network-RawData-Collection#raw-data-projects">Raw Data Projects</a> •
+  <a href="https://github.com/NiceKype/DBM-Network-RawData-Collection/blob/master/CHANGELOG.md">Changelog</a> •
+  <a href="https://github.com/NiceKype/DBM-Network-RawData-Collection#installation">Installation</a> •
+  <a href="https://github.com/NiceKype/DBM-Network-RawData-Collection#support">Support</a> •
+  <a href="https://github.com/NiceKype/DBM-Network-RawData-Collection#license">License</a><br>
   <img src="https://img.shields.io/badge/Last%20Update-12.04.2020-272727.svg" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version">
   <img src="https://discordapp.com/api/guilds/599013820513648640/widget.png" alt="Discord" href="https://nicekype.dev/discord">
